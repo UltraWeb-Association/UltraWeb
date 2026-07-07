@@ -27,8 +27,8 @@ UltraWeb is the first embodiment of the U.S. patents titled **The GUI Document M
 
 - Pages are **GUI node graphs**, not HTML documents.  
 - Documents are **JSON**, not markup.  
-- Editing is **visual**, not code?driven.  
-- Behavior is added through **sandboxed JavaScript**, not browser?embedded JS engines.  
+- Editing is **visual**, not code driven.  
+- Behavior is added through **sandboxed JavaScript**, not browser embedded JS engines.  
 - Everything is **read?write** users can build, modify, and share documents easily.
 - Builtin content management features.
 
@@ -40,7 +40,7 @@ UltraWeb aims to make document creation, app building, and interactive publishin
 
 UltraWeb is in an early, exploratory, incubation phase. The current implementation includes:
 
-- A JavaFX based GUI Web Browser?Editor  
+- A JavaFX based GUI Web Browser-Editor  
 - A JSON backed document format  
 - A drag and drop node system for building GUI documents  
 - A sandboxed JavaScript execution environment  
@@ -115,5 +115,9 @@ These documents will expand as the project evolves.
 
 ## **About the UltraWeb Association**
 
-UltraWeb is developed and maintained by the **UltraWeb Association**, a California non profit dedicated to creating accessible, empowering software tools. The Association may offer commercial services, accept donations, and hire development staff to support ongoing work. The open?source UltraWeb Core is the foundation for a broader ecosystem of GUI native documents and applications.
+UltraWeb is currently developed by the UltraWeb Association, an informal project group.
+It is the intention of the developers that UltraWeb will eventually be sponsored by,
+or transferred to, a formally registered nonprofit organization dedicated to
+maintaining and advancing the platform. The timing and structure of this transition
+will be determined as the project matures.
 
