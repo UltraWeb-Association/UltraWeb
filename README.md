@@ -1,7 +1,7 @@
-# **UltraWeb or GUI?Doc (final name pending)  A GUI?Native, JSON Backed Web Platform**  
-*A project of the UltraWeb Association (California Non?Profit)*
+# **UltraWeb or GUI Doc (final name pending)  A GUI Native, JSON Backed Web Platform**  
+*A project of the UltraWeb Association (California Non Profit)*
 
-UltraWeb (or GUI?Doc) introduces a new class of **human?consumable interactive multimedia documents** built entirely from **Graphical User Interface elements**. Using a WYSIWYG editor, users assemble documents visually, link them together to form document webs, and enrich them with JavaScript?driven behavior. Pages are constructed from **JavaFX nodes**, stored as **JSON**, and rendered as structured GUI components rather than HTML tags. This makes UltraWeb approachable for everyone from children learning to write to developers building interactive applications.
+UltraWeb (or GUI Doc) introduces a new class of **human consumable interactive multimedia documents** built entirely from **Graphical User Interface elements**. Using a WYSIWYG editor, users assemble documents visually, link them together to form document webs, and enrich them with JavaScript driven behavior. Pages are constructed from **JavaFX nodes**, stored as **JSON**, and rendered as structured GUI components rather than HTML tags. This makes UltraWeb approachable for everyone from children learning to write to developers building interactive applications.
 
 UltraWeb provides templates for articles, newsletters, outlines, lists, hubs, blogs, charts, graphs, and more. Helper dialogs and toolbars accelerate the creation process, making GUI documents a near universal medium for human expression, communication, and organization.
 
@@ -13,7 +13,7 @@ UltraWeb is released under the **Apache License 2.0**, enabling broad adoption w
 
 The Graphical User Interface is the primary way humans interact with computers. UltraWeb explores a new frontier: using the GUI itself as a **major medium for human communication, collaboration, and thought organization**. GUI documents may become a powerful personal tool for developing ideas, expressing concepts, managing information, and linking knowledge together.
 
-This platform also opens the door to new forms of communication such as **GUI?Mail**, a richer, more expressive evolution of email built on GUI documents. And with both sandboxed and unsandboxed JavaScript support, UltraWeb hints at new models for software development, application hosting, and internet?based SaaS.
+This platform also opens the door to new forms of communication such as **GUI Mail**, a richer, more expressive evolution of email built on GUI documents. And with both sandboxed and unsandboxed JavaScript support, UltraWeb hints at new models for software development, application hosting, and internet?based SaaS.
 
 UltraWeb includes an HTTP client for uploading, downloading, designing, and managing private, guest, and public sections of a personal account on a future GUIWeb Server.
 
